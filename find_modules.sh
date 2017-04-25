@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#blabla
 if [ $# != 1 ]
 then
     echo "Usage: $0 [vlc build dir]"
